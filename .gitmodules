@@ -1,0 +1,9 @@
+[submodule "Hyde"]
+	path = Hyde
+	url = git@github.com:Nova1824/Hyde.git
+[submodule "themes/hyde"]
+	path = themes/hyde
+	url = git@github.com:Nova1824/Hyde.git
+[submodule "themes/beautifulhugo"]
+	path = themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
